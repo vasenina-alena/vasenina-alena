@@ -1,5 +1,5 @@
 ## Доброго дня! Меня зовут Васенина Алена  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-### Я — начинающий Data Scientist с увлечением к анализу данных и решению сложных задач. 
+### Я — начинающий Data Scientist с увлечением к анализу данных и решению сложных задач 
 Заинтересованность Data Science появилась в рамках выполнения научно-исследовательских и опытно-конструкторских работ и по мере освоения программирования с использованием Matlab и Python в части моделирования физических процессов.
 
 <br><b>Используемые инструменты:</b> Python, Jupyter Notebook, Pandas, NumPy, SQL, Matplotlib, Scikit-learn, Catboost, Keras.
