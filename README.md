@@ -2,7 +2,7 @@
 ### Я — Data Scientist 
 Заинтересованность Data Science появилась в рамках выполнения научно-исследовательских и опытно-конструкторских работ и по мере освоения программирования с использованием Matlab и Python в части моделирования физических процессов.
 
-<br><b>Используемые инструменты:</b> Python, Jupyter Notebook, Pandas, NumPy, SQL, Matplotlib, Scikit-learn, Catboost, Keras.
+<br><b>Используемые инструменты:</b> Visual Studio Code, Python, Jupyter Notebook, Pandas, NumPy, SQL, Matplotlib, Scikit-learn, Catboost, Keras.
 
 <br><b>Ключевые навыки:</b> Проведение исследовательского и статистического анализа данных
 • Создание пайплайнов в scikit-learn
